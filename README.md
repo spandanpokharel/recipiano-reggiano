@@ -1,0 +1,3 @@
+This is a website for foodies who long for great recipes to make at home. These are my own recipes that I follow to make finger-lickn' good meals. 
+
+This website is also a step of the staircase that might lead me to a realm of programming. I would like to appreciate "The Odin Project" and its community for guidance leading to this step. I have learned how to actually write git commits, learned to read and focus. I intend to continue my journey...
